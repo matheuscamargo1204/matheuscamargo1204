@@ -1,7 +1,7 @@
 ### Olá sou Matheus Camargo
 
 - 🔭 Tenho conhecimento em Salesforce - Expeditione
-- 🌱 Atualmente estudo Java e Angular
+- 🌱 Atualmente estudo 
 - ⚡ Estou em busca do meu primeiro emprego..
 - 😄 Pronouns: ele/dele
 
